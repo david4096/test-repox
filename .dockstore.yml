@@ -2,3 +2,5 @@ version: 1.2
 workflows:
   - subclass: WDL
     primaryDescriptorPath: /wdl-101-bam.wdl
+    authors:
+      - name: test dockstore author
