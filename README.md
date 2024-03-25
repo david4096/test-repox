@@ -1,3 +1,3 @@
 # wdl-bootcamp-june
 
-archive test 6
+archive test 6a
